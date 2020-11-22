@@ -189,3 +189,5 @@ function viewRoles() {
         userInput();
     })
 }
+
+userInput();

@@ -7,4 +7,6 @@ I want to be able to view and manage the departments, roles, and employees in my
 So that I can organize and plan my business
 ```
 
+# Example 
+
 ![Employee Tracker](Assets/employee-tracker.gif)
